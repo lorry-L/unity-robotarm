@@ -1,0 +1,4 @@
+这是一个简易说明。
+这两个文件分别存放unity机械臂的开发文件和项目可执行文件。
+这个项目主要是利用UNITY引擎来做一个robotarm的运动仿真，该机械臂模型为开源模型，大家用图片识别去搜一下就行。
+早期版本的项目演示在我的B站视频上面有，详细网址为https://www.bilibili.com/video/BV1KP4y1A7EW/?spm_id_from=333.1387.homepage.video_card.click&vd_source=40f32ac382153637113c892e6f371768
