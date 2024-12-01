@@ -1,9 +1,9 @@
 *.md linguist-language=C#
-*.yml linguist-language=C#
-*.html linguist-language=C# 
-*.js linguist-language=C# 
-*.xml linguist-language=C#
-*.css linguist-language=C# 
+*.dll linguist-language=C#
+*.exe linguist-language=C# 
+*.json linguist-language=C# 
+*.assets linguist-language=C#
+*.resS linguist-language=C# 
 *.sql linguist-language=C#
 *.uml linguist-language=C#
 *.cmd linguist-language=C#
